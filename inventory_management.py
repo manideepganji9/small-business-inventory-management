@@ -1,5 +1,4 @@
 # SMALL BUSINESS INVENTORY MANAGEMENT SYSTEM
-# Beginner-friendly version using dictionaries, lists, loops and conditions.
 
 products = {}
 sales = []
